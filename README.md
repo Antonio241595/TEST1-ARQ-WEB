@@ -1,2 +1,2 @@
 # TEST1-ARQ-WEB
-First test of web arrchitecture class.
+First test of web architecture class.
